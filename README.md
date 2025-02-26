@@ -1,3 +1,3 @@
 # We Are Studio Champ Gauche
 
-A small but mighty team of two from Quebec, a designer and a developer. Together, we craft dynamic interfaces and seamless white-label management panels for other web agencies. Beyond that, we help industry leaders deliver groundbreaking projects to their clients, powered by our extraordinary expertise.
+We are a small but powerful team of two from Quebec, a designer and a developer. Together, we create dynamic interfaces and white-label management panels for other web agencies. In fact, we help leaders in our industry deliver outstanding projects to their clients and ensure they are 100% satisfied.
